@@ -1,0 +1,33 @@
+.App-header {
+    background-color: #4CAF50;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .App-header h1 {
+    margin: 0;
+  }
+  
+  .App-header nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  .App-header nav ul li {
+    margin: 0 10px;
+  }
+  
+  .App-header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .App-header nav ul li a:hover {
+    text-decoration: underline;
+  }
